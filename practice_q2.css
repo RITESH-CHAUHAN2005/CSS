@@ -1,0 +1,11 @@
+h2{
+    color: rgb(255,255,255);   /*so the color for rgb(255,255,255) is white.*/
+}
+h1{
+    color: rgb(234, 165, 16);
+    color: #eaa510;
+}
+h3{
+    color: rgb(0, 0, 255);
+    color: #0000ff;
+}

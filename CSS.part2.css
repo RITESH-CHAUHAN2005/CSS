@@ -1,0 +1,30 @@
+*{
+    align-items: center;
+}
+#mainTopic{
+    color: blue;
+}
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.para{
+    background-color: cornflowerblue;
+    color: white;
+}
+#button{
+    color: azure;
+    background-color: purple;
+}
+#button:hover{
+    color: blue;
+    background-color: yellow;
+}
+.para:nth-of-type(odd){
+    color: yellow;
+}
+#mainTopic::first-letter{
+    color: red;
+}
+#yes:checked + label{
+    color: darkgreen;
+}
